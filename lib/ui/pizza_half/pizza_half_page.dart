@@ -7,10 +7,6 @@ import 'package:portafolio/ui/theme.dart';
 import 'package:portafolio/ui/widgets/button.dart';
 import 'package:portafolio/ui/widgets/text.dart';
 
-extension LoopList<T> on List {
-  T loop(int index) => this[index % length];
-}
-
 class PizzaHalfPage extends StatefulWidget {
   const PizzaHalfPage({Key? key}) : super(key: key);
 
