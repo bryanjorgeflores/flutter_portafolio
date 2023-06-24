@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Caprese",
+        "price": 22.50,
+        "image": "caprese.png"
+    },
+    {
+        "name": "Mushrooms",
+        "price": 20.00,
+        "image": "mushroom.png"
+    },
+    {
+        "name": "Peperonni",
+        "price": 25.00,
+        "image": "peperonni.png"
+    },
+    {
+        "name": "Pineapple",
+        "price": 20.00,
+        "image": "pineapple.png"
+    },
+    {
+        "name": "Vegetarian",
+        "price": 30.00,
+        "image": "vegetarian.png"
+    },
+    {
+        "name": "Chicken Suya",
+        "price": 30.00,
+        "image": "chicken_suya.png"
+    },
+    {
+        "name": "Shrimp",
+        "price": 25.00,
+        "image": "shrimp.png"
+    },
+    {
+        "name": "Mozarella",
+        "price": 20.00,
+        "image": "shrimp.png"
+    }
+]
